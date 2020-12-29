@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://GuKai0723.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-12-29T08:00:46.655Z</updated>
+    <title>古锴</title>
+    <updated>2020-12-29T08:01:22.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://GuKai0723.github.io"/>
     <link rel="self" href="https://GuKai0723.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>古锴作品集</subtitle>
     <logo>https://GuKai0723.github.io/images/avatar.png</logo>
     <icon>https://GuKai0723.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 古锴</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://GuKai0723.github.io/post/hello-gridea/</id>
