@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://GuKai0723.github.io</id>
     <title>古锴</title>
-    <updated>2020-12-29T08:47:12.192Z</updated>
+    <updated>2020-12-29T09:28:35.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://GuKai0723.github.io"/>
     <link rel="self" href="https://GuKai0723.github.io/atom.xml"/>
@@ -16,7 +16,8 @@
         <link href="https://GuKai0723.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>s'd'f</p>
+        <content type="html"><![CDATA[<!-- more -->
+<p>s'd'f</p>
 ]]></content>
     </entry>
 </feed>
